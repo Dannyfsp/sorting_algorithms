@@ -1,6 +1,6 @@
 A readme on Sorting algorithms and Big O project given by ALX.
 
-The tasks to this project is being solved on by Aghogho Bogare and Moses Erhinyodavwe
+The tasks to this project are being solved on by Aghogho Bogare and Moses Erhinyodavwe
 
 Learning Objectives:
 At the end of this project, we are expected to be able to explain to anyone without the help of Google:
